@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 
 
 /**
- *1Simple Hello servlet.
+ *Simple Hello servlet.
  */
 
 public final class Service extends HttpServlet {
